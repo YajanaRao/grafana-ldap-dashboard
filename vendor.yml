@@ -1,0 +1,2 @@
+dashboard/css/* linguist-vendored
+*.js linguist-vendored=false
