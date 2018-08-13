@@ -1,2 +1,1 @@
-grafana-ldap-dashboard/dashboard/css/* linguist-vendored
-*.js linguist-vendored=false
+grafana-ldap-dashboard/dashboard/css/* linguist-detectable=false
