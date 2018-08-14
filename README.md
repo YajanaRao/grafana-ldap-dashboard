@@ -1,4 +1,4 @@
 # grafana-ldap-dashboard
-Integrated grafana with PHP application with LDAP database for Global user database
 
-Grafana is itegrated with php application to disable grafana authentication and to have a global user database across both the applications
+Integrated ldap with PHP application for SSO.
+PHP ldap authentication to have a application which performs SSO by using ldap entries
