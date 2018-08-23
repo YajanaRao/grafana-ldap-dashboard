@@ -21,7 +21,7 @@ if ($conn) {
     $info['givenName'] = $_POST['fname'];
     $info["mail"] = $_POST['email'];
     $info["ou"] = "viewer";
-    $info["telephoneNumber"] = "8277649277";
+    $info["telephoneNumber"] = "";
     $info['userPassword'] = '{MD5}' . base64_encode(pack('H*',md5($newuser_plaintext_password)));
 
     var_dump($conn);
